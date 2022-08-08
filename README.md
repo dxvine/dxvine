@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 
 
 
+
+
+
+
   
 
   
@@ -55,9 +59,10 @@ Here are some ideas to get you started:
 
   
 
- ###  ☕ Buy A Coffee Cup For Me 
+ ###  ☕ Your contribution Highly appreciated 👍🏻
 
  <a href="https://www.buymeacoffee.com/dxvine" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>  
+ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C7EAATK)
 
   
 
