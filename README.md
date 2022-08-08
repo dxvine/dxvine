@@ -33,11 +33,7 @@ Here are some ideas to get you started:
 
   
 
- <a href="https://github.com/dxvine"> 
-
-   <img align="left" alt="Divine GitHub" width="50" src="https://github.com/1337Xcode/1337Xcode/blob/main/Assets/Octocat.webp" /> 
-
- </a> 
+ 
 
  <a href="https://youtube.com/channel/UCh8qYnxFVB3bd4Kzhwdat0w"> 
 
@@ -59,10 +55,10 @@ Here are some ideas to get you started:
 
   
 
- ###  ☕ Your contribution Highly appreciated 👍🏻
+ ###  ☕ Buy Me a Coffee 
 
  <a href="https://www.buymeacoffee.com/dxvine" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>  
- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C7EAATK)
+
 
   
 
