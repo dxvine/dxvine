@@ -1,4 +1,5 @@
 ### Hey, Its Me Divine 🙋‍♂️
+![](https://komarev.com/ghpvc/?username=dxvine&color=green)
 
 
 
@@ -21,7 +22,7 @@ Here are some ideas to get you started:
 
 
   
-![](https://komarev.com/ghpvc/?username=dxvine&color=brightgreen)
+
   
 
   ### Socials 
