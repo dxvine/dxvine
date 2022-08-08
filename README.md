@@ -1,4 +1,6 @@
-### Hey, Its Me Divine🙋‍♂️ 
+### Hey, Its Me Divine 🙋‍♂️
+
+
 
 <!--
 **dxvine/dxvine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -52,7 +54,7 @@ Here are some ideas to get you started:
 
   
 
- ###  Buy A Coffee Cup For Me <img src="https://github.com/1337Xcode/1337Xcode/blob/main/Assets/Lemons.webp" width="50">    
+ ###  ☕ Buy A Coffee Cup For Me 
 
  <a href="https://www.buymeacoffee.com/dxvine" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>  
 
